@@ -23,6 +23,11 @@ public class VariableArguments
 		System.out.println("**********************************");
 	}
 	
+	public void addOneMethod()
+	{
+		System.out.println("Aded one more method");
+	}
+	
 	
 
 }
