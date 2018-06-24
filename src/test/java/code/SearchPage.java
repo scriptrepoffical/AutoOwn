@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class SearchPage 
 {
-	
+	//Added this search Method
 	@Test
 	public void searchPage()
 	{
